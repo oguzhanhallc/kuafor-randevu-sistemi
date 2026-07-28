@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+berberdata.db
+_stver.txt
+_st_check.py
